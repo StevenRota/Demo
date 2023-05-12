@@ -1,2 +1,2 @@
 ipak smo se predomislili
-ovo mjenjamo kroz atom
+ovo mjenjamo kroz atom nakon ispravljanje conflicta
