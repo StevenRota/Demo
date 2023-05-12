@@ -1,3 +1,3 @@
 Ovo je nas README
 
-<p stye="color:red">Paragraf</p>
+<p style="color:red">Paragraf</p>
